@@ -1,5 +1,6 @@
 from random import *
-from galactic_conquest_1_2.game.update_functions import update_map
+from galactic_conquest_1_5.game.update_functions import update_map
+from galactic_conquest_1_5.game.defaults.unit_default import UnitTemplate
 
 def movement(file):
     if file.movement_start.faction == file.movement_end.faction:
@@ -51,4 +52,10 @@ def move_enemy_to_garrison(file, attacking_troops):
     file.movement_end.enemies_present = []
 
 
-
+def spawn_garrison(file, planet_spawned, faction=None, soldiers=600):
+    _unit = UnitTemplate()
+    _unit.faction = faction
+    _unit.soldiers = soldiers
+    _unit.power = randint(20, 80)  # Todo find a better way to determine combat power based on combat stats
+    planet_spawned.troops_present.append(_unit)
+    return _unit

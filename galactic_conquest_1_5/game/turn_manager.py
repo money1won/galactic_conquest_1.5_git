@@ -1,4 +1,4 @@
-from galactic_conquest_1_2.game.defaults.player_default import PlayerTemplate
+from galactic_conquest_1_5.game.defaults.player_default import PlayerTemplate
 
 class TurnManager:
     def __init__(self, file):

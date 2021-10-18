@@ -1,5 +1,5 @@
-from galactic_conquest_1_2.gui.pyqt_py3_gui_files.planet_interface_file import Ui_Form
-from galactic_conquest_1_2.game.update_functions import update_map
+from galactic_conquest_1_5.gui.pyqt_py3_gui_files.planet_interface_file import Ui_Form
+from galactic_conquest_1_5.game.update_functions import update_map
 from random import *
 from math import *
 

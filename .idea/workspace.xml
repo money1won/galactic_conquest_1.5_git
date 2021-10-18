@@ -1,37 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="564e3cac-d8f3-4db2-a9d3-bcfe30bb6eea" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../galactic_conquest_1.5_git/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../galactic_conquest_1.5_git/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../galactic_conquest_1.5_git/.idea/galactic_conquest_1.2_git.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../galactic_conquest_1.5_git/.idea/galactic_conquest_1.5_git.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../galactic_conquest_1.5_git/galactic_conquest_1_2/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../galactic_conquest_1.5_git/galactic_conquest_1_2/__main__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../galactic_conquest_1.5_git/galactic_conquest_1_2/app.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../galactic_conquest_1.5_git/galactic_conquest_1_2/common/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../galactic_conquest_1.5_git/galactic_conquest_1_2/data/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../galactic_conquest_1.5_git/galactic_conquest_1_2/data/file.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../galactic_conquest_1.5_git/galactic_conquest_1_2/data/initialize_start_conditions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../galactic_conquest_1.5_git/galactic_conquest_1_2/game/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../galactic_conquest_1.5_git/galactic_conquest_1_2/game/button_functions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../galactic_conquest_1.5_git/galactic_conquest_1_2/game/defaults/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../galactic_conquest_1.5_git/galactic_conquest_1_2/game/defaults/faction_default.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../galactic_conquest_1.5_git/galactic_conquest_1_2/game/defaults/planet_default.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../galactic_conquest_1.5_git/galactic_conquest_1_2/game/defaults/player_default.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../galactic_conquest_1.5_git/galactic_conquest_1_2/game/defaults/unit_default.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../galactic_conquest_1.5_git/galactic_conquest_1_2/game/general_functions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../galactic_conquest_1.5_git/galactic_conquest_1_2/game/turn_manager.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../galactic_conquest_1.5_git/galactic_conquest_1_2/game/update_functions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../galactic_conquest_1.5_git/galactic_conquest_1_2/gui/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../galactic_conquest_1.5_git/galactic_conquest_1_2/gui/button_links.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../galactic_conquest_1.5_git/galactic_conquest_1_2/gui/create_window.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../galactic_conquest_1.5_git/galactic_conquest_1_2/gui/interface_loader.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../galactic_conquest_1.5_git/galactic_conquest_1_2/gui/planet_generation.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../galactic_conquest_1.5_git/galactic_conquest_1_2/gui/pyqt_py3_gui_files/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../galactic_conquest_1.5_git/galactic_conquest_1_2/gui/pyqt_py3_gui_files/main_interface_file.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../galactic_conquest_1.5_git/galactic_conquest_1_2/gui/pyqt_py3_gui_files/planet_interface_file.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../galactic_conquest_1.5_git/galactic_conquest_1_2/resources/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../galactic_conquest_1.5_git/galactic_conquest_1_2/tests/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../galactic_conquest_1.5_git/galactic_conquest_1_2/tests/test.py" beforeDir="false" />
+    <list default="true" id="564e3cac-d8f3-4db2-a9d3-bcfe30bb6eea" name="Default Changelist" comment="Initial Commit">
+      <change afterPath="$PROJECT_DIR$/../galactic_conquest_1.5_git/galactic_conquest_1_5/gui/button_functions/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../galactic_conquest_1.5_git/galactic_conquest_1_5/gui/button_functions/ground_button_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../galactic_conquest_1.5_git/galactic_conquest_1_5/gui/button_functions/map_button_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../galactic_conquest_1.5_git/galactic_conquest_1_5/gui/button_functions/planet_button_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../galactic_conquest_1.5_git/galactic_conquest_1_5/gui/button_links/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../galactic_conquest_1.5_git/galactic_conquest_1_5/gui/button_links/ground_links.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../galactic_conquest_1.5_git/galactic_conquest_1_5/gui/button_links/map_links.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../galactic_conquest_1.5_git/galactic_conquest_1_5/gui/button_links/planet_links.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../galactic_conquest_1.5_git/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../galactic_conquest_1.5_git/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../galactic_conquest_1.5_git/galactic_conquest_1_5/__main__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../galactic_conquest_1.5_git/galactic_conquest_1_5/__main__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../galactic_conquest_1.5_git/galactic_conquest_1_5/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/../galactic_conquest_1.5_git/galactic_conquest_1_5/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../galactic_conquest_1.5_git/galactic_conquest_1_5/data/file.py" beforeDir="false" afterPath="$PROJECT_DIR$/../galactic_conquest_1.5_git/galactic_conquest_1_5/data/file.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../galactic_conquest_1.5_git/galactic_conquest_1_5/data/initialize_start_conditions.py" beforeDir="false" afterPath="$PROJECT_DIR$/../galactic_conquest_1.5_git/galactic_conquest_1_5/data/initialize_start_conditions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../galactic_conquest_1.5_git/galactic_conquest_1_5/game/button_functions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../galactic_conquest_1.5_git/galactic_conquest_1_5/game/general_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/../galactic_conquest_1.5_git/galactic_conquest_1_5/game/general_functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../galactic_conquest_1.5_git/galactic_conquest_1_5/game/turn_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/../galactic_conquest_1.5_git/galactic_conquest_1_5/game/turn_manager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../galactic_conquest_1.5_git/galactic_conquest_1_5/game/update_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/../galactic_conquest_1.5_git/galactic_conquest_1_5/game/update_functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../galactic_conquest_1.5_git/galactic_conquest_1_5/gui/button_links.py" beforeDir="false" afterPath="$PROJECT_DIR$/../galactic_conquest_1.5_git/galactic_conquest_1_5/gui/button_links/button_links.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../galactic_conquest_1.5_git/galactic_conquest_1_5/gui/create_window.py" beforeDir="false" afterPath="$PROJECT_DIR$/../galactic_conquest_1.5_git/galactic_conquest_1_5/gui/create_window.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../galactic_conquest_1.5_git/galactic_conquest_1_5/gui/interface_loader.py" beforeDir="false" afterPath="$PROJECT_DIR$/../galactic_conquest_1.5_git/galactic_conquest_1_5/gui/interface_loader.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../galactic_conquest_1.5_git/galactic_conquest_1_5/gui/planet_generation.py" beforeDir="false" afterPath="$PROJECT_DIR$/../galactic_conquest_1.5_git/galactic_conquest_1_5/gui/planet_generation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../galactic_conquest_1.5_git/galactic_conquest_1_5/gui/pyqt_py3_gui_files/main_interface_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/../galactic_conquest_1.5_git/galactic_conquest_1_5/gui/pyqt_py3_gui_files/main_interface_file.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +87,9 @@
     <option name="height" value="1050" />
   </component>
   <component name="ProjectId" id="1zefjdIodbcCFtDrh4pAec50PBm" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -160,21 +154,23 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../galactic_conquest_1.5_git/galactic_conquest_1_5" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\mdcar\PycharmProjects\Freelance\galactic_conquest_1.2_git\galactic_conquest_1_2\game" />
-      <recent name="C:\Users\mdcar\PycharmProjects\Freelance\galactic_conquest_1.2_git\galactic_conquest_1_2\game\defaults" />
-      <recent name="C:\Users\mdcar\PycharmProjects\Freelance\galactic_conquest_1.2_git\galactic_conquest_1_2\gui\pyqt_py3" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\mdcar\PycharmProjects\Freelance\galactic_conquest_1.2_git\galactic_conquest_1_2\tests" />
       <recent name="C:\Users\mdcar\PycharmProjects\Freelance\galactic_conquest_1.2_git\galactic_conquest_1_2\game\defaults" />
       <recent name="C:\Users\mdcar\PycharmProjects\Freelance\galactic_conquest_1.2_git\galactic_conquest_1_2\data" />
       <recent name="C:\Users\mdcar\PycharmProjects\Freelance\galactic_conquest_1.2_git\galactic_conquest_1_2\game" />
       <recent name="C:\Users\mdcar\PycharmProjects\Freelance\galactic_conquest_1.2_git\galactic_conquest_1_2\gui" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mdcar\PycharmProjects\Freelance\galactic_conquest_1.5_git\galactic_conquest_1_5\gui\Button Functions" />
+      <recent name="C:\Users\mdcar\PycharmProjects\Freelance\galactic_conquest_1.5_git\galactic_conquest_1_5\gui\Button Links" />
+      <recent name="C:\Users\mdcar\PycharmProjects\Freelance\galactic_conquest_1.2_git\galactic_conquest_1_2\game" />
+      <recent name="C:\Users\mdcar\PycharmProjects\Freelance\galactic_conquest_1.2_git\galactic_conquest_1_2\game\defaults" />
+      <recent name="C:\Users\mdcar\PycharmProjects\Freelance\galactic_conquest_1.2_git\galactic_conquest_1_2\gui\pyqt_py3" />
     </key>
   </component>
   <component name="RunManager" selected="Python.app">
@@ -207,11 +203,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/galactic_conquest_1_2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../galactic_conquest_1.5_git" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/galactic_conquest_1_2/app.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../galactic_conquest_1.5_git/galactic_conquest_1_5" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -415,7 +411,21 @@
       <option name="project" value="LOCAL" />
       <updated>1634512058251</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial Commit">
+      <created>1634514075907</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1634514075907</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial Commit">
+      <created>1634514168110</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1634514168110</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView">

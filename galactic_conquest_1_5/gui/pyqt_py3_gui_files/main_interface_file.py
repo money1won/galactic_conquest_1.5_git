@@ -142,6 +142,7 @@ class Ui_MainWindow(object):
         self.PlanetGround_pg.setObjectName("PlanetGround_pg")
         self.garrisonGround_List = QtWidgets.QListWidget(self.PlanetGround_pg)
         self.garrisonGround_List.setGeometry(QtCore.QRect(7, 70, 381, 241))
+        self.garrisonGround_List.setSelectionMode(QtWidgets.QAbstractItemView.MultiSelection)
         self.garrisonGround_List.setObjectName("garrisonGround_List")
         self.outboundGround_List = QtWidgets.QListWidget(self.PlanetGround_pg)
         self.outboundGround_List.setGeometry(QtCore.QRect(10, 350, 381, 121))

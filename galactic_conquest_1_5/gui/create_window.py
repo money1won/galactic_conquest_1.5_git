@@ -4,8 +4,8 @@ from PyQt5.QtWidgets import (QApplication, QWidget, QScrollArea, QLabel)
 from PyQt5.QtCore import QEvent
 import sys
 
-from galactic_conquest_1_2.gui.pyqt_py3_gui_files import main_interface_file, planet_interface_file
-from galactic_conquest_1_2.gui.pyqt_py3_gui_files.main_interface_file import Ui_MainWindow
+from galactic_conquest_1_5.gui.pyqt_py3_gui_files import main_interface_file, planet_interface_file
+from galactic_conquest_1_5.gui.pyqt_py3_gui_files.main_interface_file import Ui_MainWindow
 
 # Sets up the interface window class
 class CreateMyWindow(QtWidgets.QMainWindow):

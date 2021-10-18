@@ -5,11 +5,10 @@
 # pyuic5 -x interface.ui -o interface.py
 # Copy that file somewhere local to this project so it can be referenced
 
-from galactic_conquest_1_2.data.file import File
-from galactic_conquest_1_2.gui.interface_loader import load_interface
+from galactic_conquest_1_5.data.file import File
+from galactic_conquest_1_5.gui.interface_loader import load_interface
 import os
 from time import sleep
-from galactic_conquest_1_2.data.initialize_start_conditions import create_garrisons
 
 def main():
     file = File()
@@ -17,7 +16,7 @@ def main():
 
 
 def updateUI(base_file = True, planet_file = False):
-    path1 = "C:\\Users\mdcar\PycharmProjects\Freelance\galactic_conquest_1.2_git\galactic_conquest_1_2\gui\pyqt_py3_gui_files"
+    path1 = "C:\\Users\mdcar\PycharmProjects\Freelance\galactic_conquest_1.5_git\galactic_conquest_1_5\gui\pyqt_py3_gui_files"
     path2 = "C:\\users\mdcar\Anaconda3\Library\Bin"
     if base_file:
         cmd = "pyuic5 -x interface.ui -o main_interface_file.py"
